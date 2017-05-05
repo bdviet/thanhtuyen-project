@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Data;
+using System.Data.SqlClient;
+using CrystalDecisions.Windows.Forms;
+using CrystalDecisions.CrystalReports.Engine;
+
+namespace QL_nhansu.Class
+{
+    class clsReport
+    {
+        clsData kn = new clsData();
+        public void Load_BC_Chucvu(CrystalReportViewer cryView, ReportDocument rp)
+        {
+            kn.Exe_sp_X("proc_ChucVu_BC");
+            rp.SetDataSource(kn._ds.Tables[0]);
+            cryView.ReportSource = rp;
+        }
+    }
+}

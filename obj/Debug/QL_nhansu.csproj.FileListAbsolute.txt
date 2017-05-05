@@ -1,0 +1,503 @@
+D:\qlns\QL_nhansu\QL_nhansu\bin\Debug\QL_nhansu.exe
+D:\qlns\QL_nhansu\QL_nhansu\bin\Debug\QL_nhansu.pdb
+D:\qlns\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.DotNetBar2.dll
+D:\qlns\QL_nhansu\QL_nhansu\bin\Debug\DotNetSkin.SkinControls.dll
+D:\qlns\QL_nhansu\QL_nhansu\bin\Debug\System.Windows.Forms.Ribbon.dll
+D:\qlns\QL_nhansu\QL_nhansu\obj\Debug\ResolveAssemblyReference.cache
+D:\qlns\QL_nhansu\QL_nhansu\obj\Debug\QL_nhánu.Properties.Resources.resources
+D:\qlns\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.csproj.GenerateResource.Cache
+D:\qlns\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.exe
+D:\qlns\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.pdb
+D:\qlns\QL_nhansu\QL_nhansu\bin\Debug\QL_nhansu.exe.config
+D:\qlns\QL_nhansu\QL_nhansu\obj\Debug\QL_nhánu.frmMain.resources
+D:\qlns\QL_nhansu\QL_nhansu\obj\Debug\QL_nhánu.Form1.resources
+D:\qlns\QL_nhansu\QL_nhansu\obj\Debug\QL_nhánu.frmDangNhap.resources
+D:\qlns\QL_nhansu\QL_nhansu\obj\Debug\QL_nhánu.frmPB.resources
+D:\qlns\QL_nhansu\QL_nhansu\obj\Debug\QL_nhánu.frmNV.resources
+D:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.exe
+D:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.pdb
+D:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\ResolveAssemblyReference.cache
+D:\QL_nhansu\QL_nhansu\QL_nhansu\bin\Debug\QL_nhansu.exe
+D:\QL_nhansu\QL_nhansu\QL_nhansu\bin\Debug\QL_nhansu.pdb
+D:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.csproj.GenerateResource.Cache
+D:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmChucVu.resources
+D:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.Properties.Resources.resources
+D:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDoiMatKhau.resources
+D:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmKhenThuong.resources
+D:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmKyLuat.resources
+D:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmNghiViec.resources
+D:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmNhanVien.resources
+D:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmPhongBan.resources
+D:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDangNhap.resources
+D:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmMain.resources
+D:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmThemNguoiDung.resources
+D:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmToLamViec.resources
+F:\DO AN TOT NGHIEP\Do An\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.exe
+F:\DO AN TOT NGHIEP\Do An\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.pdb
+F:\DO AN TOT NGHIEP\Do An\QL_nhansu\QL_nhansu\bin\Debug\QL_nhansu.exe
+F:\DO AN TOT NGHIEP\Do An\QL_nhansu\QL_nhansu\bin\Debug\QL_nhansu.pdb
+F:\DO AN TOT NGHIEP\Do An\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.DotNetBar.Design.dll
+F:\DO AN TOT NGHIEP\Do An\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.DotNetBar2.dll
+F:\DO AN TOT NGHIEP\Do An\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.Instrumentation.Design.dll
+F:\DO AN TOT NGHIEP\Do An\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.Instrumentation.dll
+F:\DO AN TOT NGHIEP\Do An\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.TreeGX.dll
+F:\DO AN TOT NGHIEP\Do An\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.DotNetBar2.xml
+F:\DO AN TOT NGHIEP\Do An\QL_nhansu\QL_nhansu\obj\Debug\ResolveAssemblyReference.cache
+F:\DO AN TOT NGHIEP\Do An\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmNhanVien.resources
+F:\DO AN TOT NGHIEP\Do An\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmChucVu.resources
+F:\DO AN TOT NGHIEP\Do An\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDoiMatKhau.resources
+F:\DO AN TOT NGHIEP\Do An\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmKhenThuong.resources
+F:\DO AN TOT NGHIEP\Do An\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmKyLuat.resources
+F:\DO AN TOT NGHIEP\Do An\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmNghiViec.resources
+F:\DO AN TOT NGHIEP\Do An\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmPhongBan.resources
+F:\DO AN TOT NGHIEP\Do An\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDangNhap.resources
+F:\DO AN TOT NGHIEP\Do An\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmMain.resources
+F:\DO AN TOT NGHIEP\Do An\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmThemNguoiDung.resources
+F:\DO AN TOT NGHIEP\Do An\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmToLamViec.resources
+F:\DO AN TOT NGHIEP\Do An\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.Properties.Resources.resources
+F:\DO AN TOT NGHIEP\Do An\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.csproj.GenerateResource.Cache
+F:\DO AN TOT NGHIEP\Do An\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBangChamCong.resources
+F:\DO AN TOT NGHIEP\Do An\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBangChiLuong.resources
+D:\QL_nhansu\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.DotNetBar.Design.dll
+D:\QL_nhansu\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.Instrumentation.Design.dll
+D:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmHopDong.resources
+D:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDotPhongVan.resources
+D:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmUngVien.resources
+D:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDotTuyenDung.resources
+D:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmTimKiem.resources
+D:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmTKTheoCacTieuChi.resources
+D:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmThongBaoChuyenNhanVien.resources
+D:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBangCap.resources
+D:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmNgoaiNgu.resources
+D:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmTinHoc.resources
+D:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDanToc.resources
+D:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmTonGiao.resources
+E:\Bai Mau\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.exe
+E:\Bai Mau\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.pdb
+E:\Bai Mau\QL_nhansu\QL_nhansu\bin\Debug\QL_nhansu.exe
+E:\Bai Mau\QL_nhansu\QL_nhansu\bin\Debug\QL_nhansu.pdb
+E:\Bai Mau\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.DotNetBar.Design.dll
+E:\Bai Mau\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.DotNetBar2.dll
+E:\Bai Mau\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.Instrumentation.Design.dll
+E:\Bai Mau\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.Instrumentation.dll
+E:\Bai Mau\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.TreeGX.dll
+E:\Bai Mau\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.Instrumentation.xml
+E:\Bai Mau\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.DotNetBar2.xml
+E:\Bai Mau\QL_nhansu\QL_nhansu\obj\Debug\ResolveAssemblyReference.cache
+E:\Bai Mau\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBangCap.resources
+E:\Bai Mau\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDanToc.resources
+E:\Bai Mau\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDotPhongVan.resources
+E:\Bai Mau\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDotTuyenDung.resources
+E:\Bai Mau\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmHopDong.resources
+E:\Bai Mau\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmMain.resources
+E:\Bai Mau\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmNgoaiNgu.resources
+E:\Bai Mau\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmNhanVien.resources
+E:\Bai Mau\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmChucVu.resources
+E:\Bai Mau\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDoiMatKhau.resources
+E:\Bai Mau\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmKhenThuong.resources
+E:\Bai Mau\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmKyLuat.resources
+E:\Bai Mau\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmNghiViec.resources
+E:\Bai Mau\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmPhongBan.resources
+E:\Bai Mau\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDangNhap.resources
+E:\Bai Mau\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmThemNguoiDung.resources
+E:\Bai Mau\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmThongBaoChuyenNhanVien.resources
+E:\Bai Mau\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmTimKiem.resources
+E:\Bai Mau\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmTKTheoCacTieuChi.resources
+E:\Bai Mau\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmToLamViec.resources
+E:\Bai Mau\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmTinHoc.resources
+E:\Bai Mau\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmTonGiao.resources
+E:\Bai Mau\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmUngVien.resources
+E:\Bai Mau\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.Properties.Resources.resources
+E:\Bai Mau\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.csproj.GenerateResource.Cache
+E:\Bai Mau\QL_nhansu\QL_nhansu\bin\Debug\QL_nhansu.exe.config
+E:\Bai Mau\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.Form1.resources
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\bin\Debug\QL_nhansu.exe.config
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.exe
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.pdb
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\bin\Debug\QL_nhansu.exe
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\bin\Debug\QL_nhansu.pdb
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.DotNetBar.Design.dll
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.DotNetBar2.dll
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.Instrumentation.Design.dll
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.Instrumentation.dll
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.TreeGX.dll
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.Instrumentation.xml
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.DotNetBar2.xml
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\ResolveAssemblyReference.cache
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.Form1.resources
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBangCap.resources
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDanToc.resources
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDotPhongVan.resources
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDotTuyenDung.resources
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmHopDong.resources
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmMain.resources
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmNgoaiNgu.resources
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmNhanVien.resources
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmChucVu.resources
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDoiMatKhau.resources
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmKhenThuong.resources
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmKyLuat.resources
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmNghiViec.resources
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmPhongBan.resources
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDangNhap.resources
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmThemNguoiDung.resources
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmThongBaoChuyenNhanVien.resources
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmTimKiem.resources
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmTKTheoCacTieuChi.resources
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmToLamViec.resources
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmTinHoc.resources
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmTonGiao.resources
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmUngVien.resources
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.Properties.Resources.resources
+F:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.csproj.GenerateResource.Cache
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\bin\Debug\QL_nhansu.exe.config
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.exe
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.pdb
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\ResolveAssemblyReference.cache
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.Form1.resources
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBangCap.resources
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBangchamcong.resources
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBangchiluong.resources
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDanToc.resources
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDotPhongVan.resources
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDotTuyenDung.resources
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmHopDong.resources
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmMain.resources
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmNgoaiNgu.resources
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmNhanVien.resources
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmChucVu.resources
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDoiMatKhau.resources
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmKhenThuong.resources
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmKyLuat.resources
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmNghiViec.resources
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmPhongBan.resources
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDangNhap.resources
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmThemNguoiDung.resources
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmThongBaoChuyenNhanVien.resources
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmTimKiem.resources
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmTKTheoCacTieuChi.resources
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmToLamViec.resources
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmTinHoc.resources
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmTonGiao.resources
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmUngVien.resources
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.Frm_BC_NhanSu_ChucVu.resources
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.Frm_BC_Nhansu_Dotuoi.resources
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.Properties.Resources.resources
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.csproj.GenerateResource.Cache
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\bin\Debug\Quanlynhansu.mdf
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\bin\Debug\Quanlynhansu_log.ldf
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\bin\Debug\QL_nhansu.exe
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\bin\Debug\QL_nhansu.pdb
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.DotNetBar.Design.dll
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.DotNetBar2.dll
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.Instrumentation.Design.dll
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.Instrumentation.dll
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.TreeGX.dll
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.Instrumentation.xml
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.DotNetBar2.xml
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBc_Nghiviec.resources
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBc_Phongban.resources
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBc_Khenthuong.resources
+E:\DO AN TOT NGHIEP\do an Nam sua moi nhat\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBc_Kyluat.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\bin\Debug\QL_nhansu.exe.config
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.exe
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.pdb
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\ResolveAssemblyReference.cache
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.Form1.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDiaDiem.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmPhanQuyen.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBangCap.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBangchamcong.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBangchiluong.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBaocaonhansu.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBC_Bangchamcong.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBC_Bangchiluong.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBc_Khenthuong.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBc_Kyluat.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBc_Nghiviec.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBc_Phongban.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDanToc.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDotPhongVan.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDotTuyenDung.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmHopDong.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmNgoaiNgu.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmNhanVien.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmChucVu.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDoiMatKhau.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmKhenThuong.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmKyLuat.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmNghiViec.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmPhongBan.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDangNhap.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmThemNguoiDung.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmThongBaoChuyenNhanVien.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmTimKiem.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmTKTheoCacTieuChi.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmToLamViec.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmTinHoc.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmTonGiao.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmUngVien.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.Frm_BC_NhanSu_ChucVu.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.Frm_BC_Nhansu_Dotuoi.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.Properties.Resources.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.csproj.GenerateResource.Cache
+E:\QL_nhansu\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmMain.resources
+E:\QL_nhansu\QL_nhansu\QL_nhansu\bin\Debug\Quanlynhansu.mdf
+E:\QL_nhansu\QL_nhansu\QL_nhansu\bin\Debug\Quanlynhansu_log.ldf
+E:\QL_nhansu\QL_nhansu\QL_nhansu\bin\Debug\QL_nhansu.exe
+E:\QL_nhansu\QL_nhansu\QL_nhansu\bin\Debug\QL_nhansu.pdb
+E:\QL_nhansu\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.DotNetBar.Design.dll
+E:\QL_nhansu\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.Instrumentation.Design.dll
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\bin\Debug\Quanlynhansu.mdf
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\bin\Debug\Quanlynhansu_log.ldf
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\bin\Debug\QL_nhansu.exe.config
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\bin\Debug\QL_nhansu.exe
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\bin\Debug\QL_nhansu.pdb
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.DotNetBar.Design.dll
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.DotNetBar2.dll
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.Instrumentation.Design.dll
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.Instrumentation.dll
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.TreeGX.dll
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.Instrumentation.xml
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.DotNetBar2.xml
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\ResolveAssemblyReference.cache
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.Form1.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDiaDiem.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmPhanQuyen.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBangCap.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBangchamcong.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBangchiluong.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBaocaonhansu.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBC_Bangchamcong.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBC_Bangchiluong.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBc_Khenthuong.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBc_Kyluat.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBc_Nghiviec.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDanToc.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDotPhongVan.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDotTuyenDung.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmHopDong.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmMain.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmNgoaiNgu.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmNhanVien.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmChucVu.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDoiMatKhau.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmKhenThuong.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmKyLuat.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmNghiViec.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmPhongBan.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDangNhap.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmThemNguoiDung.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmThongBaoChuyenNhanVien.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmTimKiem.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmTKTheoCacTieuChi.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmToLamViec.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmTinHoc.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmTonGiao.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmUngVien.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.Frm_BC_NhanSu_ChucVu.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.Frm_BC_Nhansu_Dotuoi.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.Properties.Resources.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.csproj.GenerateResource.Cache
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.exe
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.pdb
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBc_Phongban.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\bin\Debug\QL_nhansu.exe.config
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.exe
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.pdb
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\bin\Debug\Quanlynhansu.mdf
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\bin\Debug\Quanlynhansu_log.ldf
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\bin\Debug\QL_nhansu.exe
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\bin\Debug\QL_nhansu.pdb
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\bin\Debug\DevComponents.DotNetBar.Design.dll
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\bin\Debug\DevComponents.DotNetBar2.dll
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\bin\Debug\DevComponents.Instrumentation.Design.dll
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\bin\Debug\DevComponents.Instrumentation.dll
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\bin\Debug\DevComponents.TreeGX.dll
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\bin\Debug\DevComponents.DotNetBar2.xml
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\bin\Debug\DevComponents.Instrumentation.xml
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\ResolveAssemblyReference.cache
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.Form1.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.frmBc_Phongban.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.frmDiaDiem.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.frmPhanQuyen.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.frmBangCap.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.frmBangchamcong.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.frmBangchiluong.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.frmBaocaonhansu.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.frmBC_Bangchamcong.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.frmBC_Bangchiluong.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.frmBc_Khenthuong.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.frmBc_Kyluat.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.frmBc_Nghiviec.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.frmDanToc.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.frmDotPhongVan.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.frmDotTuyenDung.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.frmHopDong.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.frmMain.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.frmNgoaiNgu.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.frmNhanVien.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.frmChucVu.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.frmDoiMatKhau.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.frmKhenThuong.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.frmKyLuat.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.frmNghiViec.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.frmPhongBan.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.frmDangNhap.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.frmThemNguoiDung.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.frmThongBaoChuyenNhanVien.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.frmTimKiem.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.frmTKTheoCacTieuChi.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.frmToLamViec.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.frmTinHoc.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.frmTonGiao.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.frmUngVien.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.Frm_BC_NhanSu_ChucVu.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.Frm_BC_Nhansu_Dotuoi.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.Properties.Resources.resources
+E:\DO AN TOT NGHIEP\Moinhat_phuongsua\QL_nhansu_banchuan\QL_nhansu\obj\Debug\QL_nhansu.csproj.GenerateResource.Cache
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\bin\Debug\QL_nhansu.exe.config
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.exe
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.pdb
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\ResolveAssemblyReference.cache
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBc_Phongban.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDiaDiem.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmPhanQuyen.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBangCap.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBangchamcong.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBangchiluong.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBaocaonhansu.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBC_Bangchamcong.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBC_Bangchiluong.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBc_Khenthuong.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBc_Kyluat.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBc_Nghiviec.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDanToc.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDotPhongVan.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDotTuyenDung.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmHopDong.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmNgoaiNgu.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmNhanVien.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmChucVu.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDoiMatKhau.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmKhenThuong.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmKyLuat.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmNghiViec.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmPhongBan.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDangNhap.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmTacgia.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmThemNguoiDung.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmThongBaoChuyenNhanVien.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmTimKiem.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmTKTheoCacTieuChi.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmToLamViec.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmTinHoc.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmTonGiao.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmUngVien.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.Frm_BC_NhanSu_ChucVu.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.Frm_BC_Nhansu_Dotuoi.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.Properties.Resources.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.csproj.GenerateResource.Cache
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\bin\Debug\Quanlynhansu.mdf
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\bin\Debug\Quanlynhansu_log.ldf
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\bin\Debug\QL_nhansu.exe
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\bin\Debug\QL_nhansu.pdb
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.DotNetBar.Design.dll
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.Instrumentation.Design.dll
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmMain.resources
+E:\QL_nhansu\Ban Cuoi\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmCapnhatchiluong.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\bin\Debug\QL_nhansu.exe.config
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.exe
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.pdb
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\bin\Debug\Quanlynhansu.mdf
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\bin\Debug\Quanlynhansu_log.ldf
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\bin\Debug\QL_nhansu.exe
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\bin\Debug\QL_nhansu.pdb
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.DotNetBar.Design.dll
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.DotNetBar2.dll
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.Instrumentation.Design.dll
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.Instrumentation.dll
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.TreeGX.dll
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.DotNetBar2.xml
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\bin\Debug\DevComponents.Instrumentation.xml
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\ResolveAssemblyReference.cache
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBc_Phongban.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmCapnhatchiluong.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDiaDiem.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmPhanQuyen.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBangCap.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBangchamcong.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBangchiluong.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBaocaonhansu.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBC_Bangchamcong.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBC_Bangchiluong.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBc_Khenthuong.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBc_Kyluat.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmBc_Nghiviec.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDanToc.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDotPhongVan.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDotTuyenDung.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmHopDong.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmMain.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmNgoaiNgu.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmNhanVien.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmChucVu.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDoiMatKhau.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmKhenThuong.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmKyLuat.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmNghiViec.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmPhongBan.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmDangNhap.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmTacgia.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmThemNguoiDung.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmThongBaoChuyenNhanVien.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmTimKiem.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmTKTheoCacTieuChi.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmToLamViec.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmTinHoc.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmTonGiao.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.frmUngVien.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.Frm_BC_NhanSu_ChucVu.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.Frm_BC_Nhansu_Dotuoi.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.Properties.Resources.resources
+E:\DO AN TOT NGHIEP\QL_nhansu_12_6\QL_nhansu\QL_nhansu\obj\Debug\QL_nhansu.csproj.GenerateResource.Cache
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.frmBc_Phongban.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.frmCapnhatchiluong.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.frmDiaDiem.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.frmPhanQuyen.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.frmBangCap.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.frmBangchamcong.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.frmBangchiluong.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.frmBaocaonhansu.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.frmBC_Bangchamcong.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.frmBC_Bangchiluong.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.frmBc_Khenthuong.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.frmBc_Kyluat.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.frmBc_Nghiviec.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.frmDanToc.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.frmDotPhongVan.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.frmDotTuyenDung.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.frmHopDong.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.frmNgoaiNgu.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.frmNhanVien.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.frmChucVu.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.frmDoiMatKhau.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.frmKhenThuong.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.frmKyLuat.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.frmNghiViec.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.frmPhongBan.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.frmDangNhap.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.frmTacgia.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.frmThemNguoiDung.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.frmThongBaoChuyenNhanVien.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.frmTimKiem.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.frmTKTheoCacTieuChi.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.frmToLamViec.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.frmTinHoc.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.frmTonGiao.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.frmUngVien.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.Frm_BC_NhanSu_ChucVu.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.Frm_BC_Nhansu_Dotuoi.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.Properties.Resources.resources
+C:\Users\TIIN\Desktop\343434\obj\Debug\QL_nhansu.csproj.GenerateResource.Cache
+C:\Users\TIIN\Desktop\343434\bin\Debug\QL_nhansu.exe.config
